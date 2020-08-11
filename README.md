@@ -7,7 +7,20 @@
 ### About
 
 #### Languages & Skills
-<img height="32" width="32" src="https://simpleicons.org/icons/vue-dot-js.svg" />
+
+<img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  | <div><br><br>💝<br><a href="https://github.com/chajinjoo"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
+| ------------- | ------------- |
+
 
 
 ![JINJOO's github stats](https://github-readme-stats.vercel.app/api?username=chajinjoo&show_icons=true)
+
+
+
+
+
+
+
+
+
+
