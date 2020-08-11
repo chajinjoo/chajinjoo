@@ -10,5 +10,4 @@
 <img height="32" width="32" src="https://simpleicons.org/icons/vue-dot-js.svg" />
 
 
-
-![JINJOO's github stats](https://github-readme-stats.vercel.app/api?username=chajinjoo&show_icons=true&theme=vue)
+![JINJOO's github stats](https://github-readme-stats.vercel.app/api?username=chajinjoo&show_icons=true)
