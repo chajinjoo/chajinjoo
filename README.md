@@ -6,6 +6,6 @@
 
 [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/chajinjoo)](https://github.com/chajinjoo)
 
-[![Instagram](http://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&link=https://www.instagram.com/chacha__dev/)](https://www.instagram.com/chacha__dev/)
+[![Instagram](http://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram#E4405F&link=https://www.instagram.com/chacha__dev/)](https://www.instagram.com/chacha__dev/)
 
 [![Techblog](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=blog#E4405F&link=https://chajinjoo.netlify.app/)](https://chajinjoo.netlify.app/)
