@@ -6,5 +6,5 @@
 
 ### About
 
-#### PROFESSIONAL SKILLS
+#### Languages & Skills
 <img height="32" width="32" src="https://simpleicons.org/icons/vue-dot-js.svg" />
