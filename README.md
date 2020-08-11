@@ -7,4 +7,4 @@
 ### About
 
 #### PROFESSIONAL SKILLS
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Vuetify].svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/vue-dot-js.svg" />
