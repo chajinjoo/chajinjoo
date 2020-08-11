@@ -8,4 +8,4 @@
 
 [![Instagram](http://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&link=https://www.instagram.com/chacha__dev/)](https://www.instagram.com/chacha__dev/)
 
-[![Techblog](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=Bloglovin#E4405F&link=https://chajinjoo.netlify.app/)](https://chajinjoo.netlify.app/)
+[![Techblog](http://img.shields.io/badge/-Tech%20blog-lightyellow?style=flat-square&logo=Bloglovin#E4405F&link=https://chajinjoo.netlify.app/)](https://chajinjoo.netlify.app/)
