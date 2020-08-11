@@ -7,4 +7,4 @@
 [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/chajinjoo)](https://github.com/chajinjoo)
 
 
-[![Instagram](http://img.shields.io/badge/-Instagram-#E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/chacha__dev/)](https://www.instagram.com/chacha__dev/)
+[![Instagram](http://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram#E4405F&link=https://www.instagram.com/chacha__dev/)](https://www.instagram.com/chacha__dev/)
