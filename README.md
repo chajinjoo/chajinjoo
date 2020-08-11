@@ -8,18 +8,6 @@
 
 #### Languages & Skills
 
-<img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  | <div><br><br>💝<br><a href="https://github.com/chajinjoo"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
-| ------------- | ------------- |
-
-
-
-![JINJOO's github stats](https://github-readme-stats.vercel.app/api?username=chajinjoo&show_icons=true)
-
-
-
-
-
-
 | <code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
 <code><img alt="Vuejs" src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="32"></code>
 <code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code>
@@ -30,6 +18,17 @@
 <code><img alt="Sass" src="https://user-images.githubusercontent.com/26512984/88482103-2754bf00-cf9a-11ea-9e2f-075735d3db3c.jpg" width="32"></code>
 <code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>  | <div><br><br>TEST<br><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
 | ------------- | ------------- |
+
+
+
+
+![JINJOO's github stats](https://github-readme-stats.vercel.app/api?username=chajinjoo&show_icons=true)
+
+
+
+
+
+
 
 
 
